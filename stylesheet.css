@@ -1,0 +1,39 @@
+section {
+	width: 500px;
+	height:300px;
+}
+
+
+.shade {
+	border-color: black;
+}
+#background {
+	background-color: grey;
+}
+a:link {
+	color: blue;
+}
+a:hover {
+	text-decoration: none;
+	color: black;
+}
+.fancy {
+	font-family: cursive;
+	display: block;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+.professional {
+	font-family: courier;
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.fun {
+	font-family: Trebuchet MS;
+}
+.info {
+	text-align: center;
+}
